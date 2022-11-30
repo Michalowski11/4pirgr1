@@ -1,0 +1,34 @@
+* {
+    background: cornflowerblue;
+}
+
+#jedyneczka {
+    color: orangered;
+}
+
+#jeden {
+    color: orangered;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+#primkenau {
+    float: left;
+    margin-right: 20px;
+}
+
+#dwójeczka {
+    color: orangered;
+    margin-left: 5px;
+}
+
+#dwa {
+    color: orangered;
+    font-size: 22px;
+}
+
+#augusta {
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
