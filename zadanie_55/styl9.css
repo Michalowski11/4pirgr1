@@ -1,0 +1,46 @@
+body {
+    font-family: Georgia;
+}
+
+#gorny1, #gorny2 {
+    background-color: rgb(197,85,160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: left;
+}
+
+#baner, #stopka {
+    background-color: rgb(246,226,222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+
+#glowny-l, #glowny-p {
+    background-color: rgb(197,85,160);
+    color: white;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+#gorny2 > a {
+    background-image: url("cukierki1.png");
+    padding-right: 70px;
+    padding-bottom: 120px;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+td, table, tr {
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 20px;
+}
+
+h2 {
+    letter-spacing: 10px;
+    font-size: 200%;
+}
